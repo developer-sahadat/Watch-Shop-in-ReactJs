@@ -34,7 +34,7 @@
     margin: 15px 0;
     padding: 10px 0;
     border: none;
-    background-color: #F7CA00;
+    background-color: #fd0c14;
     border-radius: 50px;
     color: black;
     font-family: 'Poppins', sans-serif;
@@ -46,16 +46,16 @@
 }
 
 .choose-me-btn:hover {
-    background-color: #e6c327;
+    background-color: #a70e14;
     color: white;
 }
 
 .choose-again-btn {
-    background-color: #fd0c14;
+    background-color: #F7CA00;
     margin-top: 0;
 }
 
 .choose-again-btn:hover {
-    background-color: #a70e14;
+    background-color: #e6c327;
     color: white;
 }
