@@ -29,7 +29,10 @@ const Shop = () => {
             </div>
 
             <div className="cart-container col-lg-3">
-                <h2>Summary</h2>
+                <h3> <span>C</span>hoose <span>C</span>lothes</h3>
+
+                <button className='choose-me-btn'>Choose 1 for me</button>
+                <button className='choose-again-btn'>Choose again click</button>
             </div>    
 
         </div>

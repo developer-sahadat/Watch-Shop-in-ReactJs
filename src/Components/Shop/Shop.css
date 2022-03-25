@@ -12,6 +12,50 @@
     color: #E7272D;
 }
 
+.cart-container {
+    box-shadow: 0 4px 21px -12px rgb(0, 0, 0, 0.79);
+}
 
+.cart-container h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 2rem;
 
-/* box-shadow: 0 4px 21px -12px rgb(0, 0, 0, 0.79); */
+}
+
+.cart-container h3 span {
+    color: #E7272D;
+}
+
+.choose-me-btn,
+.choose-again-btn {
+    width: 100%;
+    margin: 15px 0;
+    padding: 10px 0;
+    border: none;
+    background-color: #F7CA00;
+    border-radius: 50px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.choose-me-btn:hover {
+    background-color: #e6c327;
+    color: white;
+}
+
+.choose-again-btn {
+    background-color: #fd0c14;
+    margin-top: 0;
+}
+
+.choose-again-btn:hover {
+    background-color: #a70e14;
+    color: white;
+}
