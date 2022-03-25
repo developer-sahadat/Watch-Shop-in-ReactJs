@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.product-card {
+    box-shadow: 0 4px 21px -12px rgb(0, 0, 0, 0.79);
+    min-height: 400px;
+    text-align: center;
+}
+
+.product-card img {
+    height: 230px;
+    width: 100%;
+}
+
+.product-card h4 {
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 900;
+    transition: all 0.5s;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.product-card h4:hover {
+    color: #E7272D;
+}
+
+.product-card h6 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 900;
+    padding-top: 10px;
+}
+
+.product-btn {
+    border: none;
+    border: 2px solid rgb(199, 199, 199);
+    background-color: white;
+    padding: 10px 40px;
+    border-radius: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #E7272D;
+    margin-top: 10px;
+    transition: all 0.5s;
+}
+
+.product-btn:hover {
+    background-color: #E7272D;
+    border: 2px solid #E7272D;
+    color: white;
+}
