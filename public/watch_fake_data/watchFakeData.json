@@ -1,0 +1,74 @@
+[
+    {
+        "title":"Diver Quartz Men's Watch",
+        "price":150,
+        "id":1,
+        "image":"https://cdn.pixabay.com/photo/2014/07/31/23/00/wristwatch-407096_960_720.jpg"
+    },
+    {
+        "title":"Leather Strap Watch",
+        "price":110,
+        "id":2,
+        "image":"https://cdn.pixabay.com/photo/2016/11/29/13/39/analog-watch-1869928_960_720.jpg"
+    },
+    {
+        "title":"Timex Men's Expedition Scout",
+        "price":130,
+        "id":3,
+        "image":"https://img.freepik.com/free-psd/presentation-smartwatch-with-screen-mock-up_23-2148787546.jpg?w=740&t=st=1648222976~exp=1648223576~hmac=5197052a847ef2aac9f7d10d4c19336416f9b4e4e3fd5e9bc0ae76684e114710"
+    },
+    {
+        "title":"Steel Quartz Chronograph Watch",
+        "price":250,
+        "id":4,
+        "image":"https://cdn.pixabay.com/photo/2018/03/30/04/32/clock-3274366__340.jpg"
+    },
+    {
+        "title":"Timex Men's Scout 40 Watch",
+        "price":210,
+        "id":5,
+        "image":"https://cdn.pixabay.com/photo/2015/09/09/02/03/clock-931027__340.jpg"
+    },
+    {
+        "title":"Pro Diver Stainless Steel Watch",
+        "price":200,
+        "id":6,
+        "image":"https://cdn.pixabay.com/photo/2019/03/07/20/06/wrist-watch-4040972__340.jpg"
+    },
+    {
+        "title":"Steel Mechanical Automatic Watch",
+        "price":100,
+        "id":7,
+        "image":"https://cdn.pixabay.com/photo/2016/03/05/09/03/wrist-watch-1237417__340.jpg"
+    },
+    {
+        "title":"Casio Japanese-Quartz Sport Watch",
+        "price":201,
+        "id":8,
+        "image":"https://cdn.pixabay.com/photo/2016/10/30/16/13/wrist-watch-1783544__340.jpg"
+    },
+    {
+        "title":"Ferrari Men's Pista Quartz Watch",
+        "price":219,
+        "id":9,
+        "image":"https://cdn.pixabay.com/photo/2020/04/11/14/49/wrist-watch-5030716__340.jpg"
+    },
+    {
+        "title":"Timex Easy Reader Date",
+        "price":510,
+        "id":10,
+        "image":"https://cdn.pixabay.com/photo/2017/06/14/01/08/hours-2400708__340.jpg"
+    },
+    {
+        "title":"Timex Mens Camper Watch",
+        "price":310,
+        "id":11,
+        "image":"https://cdn.pixabay.com/photo/2016/03/05/14/44/wrist-watch-1237818__340.jpg"
+    },
+    {
+        "title":"Men's Classic Digital Watch",
+        "price":215,
+        "id":12,
+        "image":"https://cdn.pixabay.com/photo/2015/09/26/09/09/hipster-958806__340.jpg"
+    }
+]
