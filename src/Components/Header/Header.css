@@ -1,0 +1,6 @@
+.header {
+    background-color: #E7272D;
+    box-shadow: 0 4px 21px -12px rgb(0, 0, 0, 0.79);
+    position: sticky;
+    top: 0;
+}
