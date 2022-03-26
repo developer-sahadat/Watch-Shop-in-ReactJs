@@ -19,6 +19,7 @@ const Shop = () => {
     // Work has been done to bring cart data here
 
       const [cart, setCart]=useState([])
+      
         const addToCartHandler=cartProduct=>{
             let newCart=[]
             if(!cart.includes(cartProduct)){

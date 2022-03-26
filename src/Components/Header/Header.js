@@ -5,19 +5,19 @@ const Header = () => {
     return (
         <div className='header'>
             <Navbar  expand="lg">
-  <Container>
-    <Navbar.Brand href="#home" className='fs-3 text-white'>Watch Shop </Navbar.Brand>
-    <Navbar.Toggle aria-controls="basic-navbar-nav" />
-    <Navbar.Collapse id="basic-navbar-nav">
-      <Nav className="me-auto">
-        <Nav.Link href="#home"  className='fs-5 text-white'>Home</Nav.Link>
-        <Nav.Link href="#link"  className='fs-5 text-white'>Shop</Nav.Link>
-        <Nav.Link href="#link"  className='fs-5 text-white'>Contact</Nav.Link>
-        <Nav.Link href="#link"  className='fs-5 text-white'>FAQ</Nav.Link>
-      </Nav>
-    </Navbar.Collapse>
-  </Container>
-</Navbar>
+              <Container>
+                <Navbar.Brand href="#home" className='fs-3 text-white'>Watch Shop </Navbar.Brand>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                  <Nav className="me-auto">
+                    <Nav.Link href="#home"  className='fs-5 text-white'>Home</Nav.Link>
+                    <Nav.Link href="#link"  className='fs-5 text-white'>Shop</Nav.Link>
+                    <Nav.Link href="#link"  className='fs-5 text-white'>Contact</Nav.Link>
+                    <Nav.Link href="#link"  className='fs-5 text-white'>FAQ</Nav.Link>
+                  </Nav>
+                </Navbar.Collapse>
+              </Container>
+            </Navbar>
         </div>
     );
 };
