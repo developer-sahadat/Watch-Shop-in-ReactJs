@@ -68,7 +68,7 @@ const Shop = () => {
         {/* Some of the work of cart component has been done here */}
 
             <div className="cart-container col-lg-3">
-                <h3> <span>C</span>hoose <span>C</span>lothes</h3>
+                <h3> <span>C</span>hoose <span>W</span>atch</h3>
 
                 {
                     cart.map(product=><Cart cart={product} key={product.id}></Cart>)
