@@ -25,7 +25,8 @@ const Shop = () => {
                if(cart.length<4){
                 newCart=[...cart, cartProduct]
                }else{
-                   return;
+                   alert('Sorry, you cannot add more than 4 products')
+                  return;
                }
             }else{
                 return;
